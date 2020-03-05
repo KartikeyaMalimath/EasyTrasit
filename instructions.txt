@@ -1,0 +1,18 @@
+#git commands
+
+to start with
+$git clone YourRepoLink 
+
+ontime only
+$git branch --set-upstream-to putKmGitCloneLinkHere
+
+everytime fetch from km 
+$git fetch upstream
+$git merge upstream/master
+
+local github upload
+$git add .
+$git commit -m "your message here"
+$git push origin master
+
+please work with complete documentation

@@ -1,12 +1,12 @@
-## EasyTrabsit
+# EasyTransit
 EasyTransit brings you the next generation Intra-city  public transport through cashless transactions, paperless ticketing and the best feature - realtime preabooking of seats even in city transport systems
 
-## Founders
+# Founders
 - Kartikeya P. Malimath
 - Soumaya LG Joshi
 
-## Stages
-# Ideation
+# Stages
+## Ideation
 - Easy Transit idea was formulated in March 2019
 - V1.0 prototype was initiated in March 2019
 - V1.0 prototype was terminated due to its lack of market acquisition power
