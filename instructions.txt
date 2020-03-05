@@ -1,3 +1,6 @@
+=================================================
+[05/03/2020]
+-------------------------------------------------
 #git commands
 
 to start with
@@ -16,3 +19,12 @@ $git commit -m "your message here"
 $git push origin master
 
 please work with complete documentation
+====================================================
+[05-03-2020]
+----------------------------------------------------
+-use template.html to edit front end
+-header.js is the sidenavbar to be added for all pages as script src
+-public folder is for public user (online booking and profiles)
+-user folder is for conductor or any ticketing system
+-admin folder is for admin dashboard
+-all folder have templates use the same and edit between mentioned only
