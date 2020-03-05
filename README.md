@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # EasyTransit
-=======
-## EasyTrasit
->>>>>>> 3d5c10b04a776a3e122a610be898c90ee6d1185a
 EasyTransit brings you the next generation Intra-city  public transport through cashless transactions, paperless ticketing and the best feature - realtime preabooking of seats even in city transport systems
 
 # Founders
