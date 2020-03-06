@@ -7,7 +7,7 @@ to start with
 $git clone YourRepoLink 
 
 ontime only
-$git branch --set-upstream-to putKmGitCloneLinkHere
+$git remote add upstream <linkKM>
 
 everytime fetch from km 
 $git fetch upstream
